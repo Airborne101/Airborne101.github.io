@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.475436d5.css",
+    "main.js": "/static/js/main.a6ce577e.js",
+    "static/js/787.dfaeb445.chunk.js": "/static/js/787.dfaeb445.chunk.js",
+    "static/media/NanumPenScript-Regular.ttf": "/static/media/NanumPenScript-Regular.9dbef1100bff0af74f80.ttf",
+    "static/media/main.png": "/static/media/main.cd90f847c41e312364c8.png",
+    "static/media/main_2.jpg": "/static/media/main_2.c1c88894b41fc790a858.jpg",
+    "static/media/BlackHanSans-Regular.ttf": "/static/media/BlackHanSans-Regular.f4f89062321390018f92.ttf",
+    "static/media/swiper_1.jpg": "/static/media/swiper_1.8a6ff3dddfd0aec30ac5.jpg",
+    "static/media/swiper_3.jpg": "/static/media/swiper_3.da372ea3d0c8ee5ed330.jpg",
+    "static/media/swiper_2.jpg": "/static/media/swiper_2.0bdad66cfe6eb0377d6d.jpg",
+    "static/media/character_main.jpg": "/static/media/character_main.7438dbede1af20d188d2.jpg",
+    "static/media/trailer_text.png": "/static/media/trailer_text.3ec6085680f1a83645c3.png",
+    "static/media/play_btn.png": "/static/media/play_btn.7fdbeec08954225ed655.png",
+    "static/media/one-five-grade.png": "/static/media/one-five-grade.04acb439b985a2028ddb.png",
+    "static/media/swiper_nav_left.png": "/static/media/swiper_nav_left.5480d4c88859bd1d54fa.png",
+    "static/media/swiper_nav_right.png": "/static/media/swiper_nav_right.f0811c49e563c2763105.png",
+    "static/media/violence.png": "/static/media/violence.6044ac78eb9736b03636.png",
+    "index.html": "/index.html",
+    "main.475436d5.css.map": "/static/css/main.475436d5.css.map",
+    "main.a6ce577e.js.map": "/static/js/main.a6ce577e.js.map",
+    "787.dfaeb445.chunk.js.map": "/static/js/787.dfaeb445.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.475436d5.css",
+    "static/js/main.a6ce577e.js"
+  ]
+}
